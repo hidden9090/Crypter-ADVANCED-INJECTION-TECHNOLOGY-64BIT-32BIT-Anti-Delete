@@ -8,6 +8,17 @@ An obfuscation tool for .Net + Native files.
 - Make Sure You Have Visual Studio Installed on Your Computer
 - [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
+
+Telegram: (https://t.me/hidden9090)
+
+If not replying you than I'm busy in that case , please Text my team (https://t.me/hidden9090team)
+
+My channel :-
+
+https://t.me/+1tDzjSCGDDs0ODA9
+
+
+
 ### Compiling :
 1. Open the solution file (.sln).
 2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
@@ -80,3 +91,12 @@ By using this software, you automatically agree to the above.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
+
+
+Telegram: (https://t.me/hidden9090)
+
+If not replying you than I'm busy in that case , please Text my team (https://t.me/hidden9090team)
+
+My channel :-
+
+https://t.me/+1tDzjSCGDDs0ODA9
