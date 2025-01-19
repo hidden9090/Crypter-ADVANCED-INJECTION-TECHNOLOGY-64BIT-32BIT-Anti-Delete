@@ -8,7 +8,7 @@ An obfuscation tool for .Net + Native files.
 - Make Sure You Have Visual Studio Installed on Your Computer
 - [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
 
-
+ 
 Telegram: (https://t.me/hidden9090)
 
 If not replying you than I'm busy in that case , please Text my team (https://t.me/hidden9090team)
