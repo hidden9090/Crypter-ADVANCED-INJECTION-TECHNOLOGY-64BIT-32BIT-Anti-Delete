@@ -1,5 +1,5 @@
 # Pure Crypter
-An obfuscation tool for .Net + Native files.    
+An obfuscation tool for .Net + Native files.         
        
 ## How to Use     
   
