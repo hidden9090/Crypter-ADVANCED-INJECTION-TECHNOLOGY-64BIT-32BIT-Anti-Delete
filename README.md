@@ -1,7 +1,7 @@
 # Pure Crypter
 An obfuscation tool for .Net + Native files.          
         
-## How to Use        
+## How to Use         
   
 - Download the project to your computer as zip    
 - Extract Project to Folder. 
